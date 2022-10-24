@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки/Sheol.md",
-                "mode": "source",
+                "file": "Meta/Style Document ⭐.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Sheol.md",
+                "file": "Meta/Style Document ⭐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "94b0faaeb396b051",
   "lastOpenFiles": [
+    "Заметки/Sheol.md",
     "Заметки/Жабы 🐸/Логи встреч/Майндсторм с дюшей.md",
     "Канбан 🃏.md",
     "test.md",
@@ -117,7 +118,6 @@
     "Meta/Gallery/Pasted image 20220714025751.png",
     "Разобраться со скачанными плагинами.md",
     "Учёба/MSU/Матстат.md",
-    "Учёба/MSU/Матстат коллок/2 билет.md",
-    "Учёба/MSU/Матстат коллок/11 билет.md"
+    "Учёба/MSU/Матстат коллок/2 билет.md"
   ]
 }
