@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/AIM/AIM Algs.md",
+                "file": "test.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Учёба/AIM/AIM Algs.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 254.5,
     "collapsed": true
   },
   "ribbon": {
@@ -109,9 +109,9 @@
   },
   "active": "94b0faaeb396b051",
   "lastOpenFiles": [
+    "Учёба/AIM/AIM Algs.md",
     "Meta/Gallery/Pasted image 20220714023833.png",
     "Meta/Gallery/Pasted image 20220714025751.png",
-    "Учёба/AIM/AIM Algs.md",
     "Канбан 🃏.md",
     "Разобраться со скачанными плагинами.md",
     "test.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "test",
+      "path": "test.md"
+    },
+    {
       "basename": "AIM Algs",
       "path": "Учёба/AIM/AIM Algs.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Канбан 🃏",
       "path": "Канбан 🃏.md"
-    },
-    {
-      "basename": "test",
-      "path": "test.md"
     },
     {
       "basename": "Матстат",
