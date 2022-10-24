@@ -11,11 +11,9 @@
             "id": "94b0faaeb396b051",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "test.md",
-                "mode": "preview",
-                "source": false
+                "file": "Канбан 🃏.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Канбан 🃏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +105,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "94b0faaeb396b051",
+  "active": "180c0d408625aadc",
   "lastOpenFiles": [
+    "test.md",
     "Учёба/AIM/AIM Algs.md",
     "Meta/Gallery/Pasted image 20220714023833.png",
     "Meta/Gallery/Pasted image 20220714025751.png",
     "Канбан 🃏.md",
     "Разобраться со скачанными плагинами.md",
-    "test.md",
     "Учёба/MSU/Матстат.md",
     "Учёба/MSU/Матстат коллок/2 билет.md",
-    "Заметки/Жабы 🐸/Идеи/Майндсторм с дюшей.md",
+    "Заметки/Жабы 🐸/Логи встреч/Майндсторм с дюшей.md",
     "Учёба/MSU/Матстат коллок/11 билет.md"
   ]
 }
