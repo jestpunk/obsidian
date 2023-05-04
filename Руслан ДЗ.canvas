@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fea44a71d2209b25","x":-160,"y":-340,"width":359,"height":131,"color":"5","type":"text","text":"Здравствуйте! Я бот-помощник по заказу билетов на поезд. Вы хотели бы заказать билет?"},
+		{"id":"4f4e1049c9fa789f","x":-460,"y":-130,"width":80,"height":90,"type":"text","text":"Да"}
+	],
+	"edges":[
+		{"id":"c26b84e1cda9f571","fromNode":"fea44a71d2209b25","fromSide":"bottom","toNode":"4f4e1049c9fa789f","toSide":"top"}
+	]
+}
