@@ -1,8 +1,8 @@
-
 ---
 banner: "https://losslandscape.com/wp-content/uploads/2019/11/edge-horizon.jpg"
 banner_y: 0.78929
 ---
+
 # DL
 #ml #ozon #prog #course | [[ml]] [[ozon]] [[prog]] [[course]]
 Курс Дьяконова
