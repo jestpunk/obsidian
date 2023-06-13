@@ -46,7 +46,24 @@
 1. [[AIM ML#AIM ML Content Navigable Small World (NSW)|Navigable Small World (NSW)]]
 
 ### [[AIM ML#AIM ML Content Контроль качества и выбор модели|Контроль качества и выбор модели]]
-1. 
+1. Train test split
+2. Дубликаты
+3. Random subsampling CV
+4. Bootstrap
+5. K-fold CV
+6. LOOCV
+7. Out-of-time CV
+8. Перебор параметров
+9. Байесовская оптимизация
+
+### [[AIM ML#AIM ML Content Оптимизация|Оптимизация]]
+1. Покоординатный спуск
+2. Градиентный спуск
+3. Стохастический градиентный спуск
+4. Градиентный спуск и ML
+5. Метод Ньютона
+6. BFGS
+7. Условная оптимизация
 - - -
 
 &nbsp;
