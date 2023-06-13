@@ -46,24 +46,24 @@
 1. [[AIM ML#AIM ML Content Navigable Small World (NSW)|Navigable Small World (NSW)]]
 
 ### [[AIM ML#AIM ML Content Контроль качества и выбор модели|Контроль качества и выбор модели]]
-1. Train test split
-2. Дубликаты
-3. Random subsampling CV
-4. Bootstrap
-5. K-fold CV
-6. LOOCV
-7. Out-of-time CV
-8. Перебор параметров
-9. Байесовская оптимизация
+1. [[AIM ML#AIM ML Content Train test split|Train test split]]
+2. [[AIM ML#AIM ML Content Дубликаты|Дубликаты]]
+3. [[AIM ML#AIM ML Content Random subsampling CV|Random subsampling CV]]
+4. [[AIM ML#AIM ML Content Bootstrap|Bootstrap]]
+5. [[AIM ML#AIM ML Content K-fold CV|K-fold CV]]
+6. [[AIM ML#AIM ML Content LOOCV|LOOCV]]
+7. [[AIM ML#AIM ML Content Out of time CV|Out-of-time CV]]
+8. [[AIM ML#AIM ML Content Перебор параметров|Перебор параметров]]
+9. [[AIM ML#AIM ML Content Байесовская оптимизация|Байесовская оптимизация]]
 
 ### [[AIM ML#AIM ML Content Оптимизация|Оптимизация]]
-1. Покоординатный спуск
-2. Градиентный спуск
-3. Стохастический градиентный спуск
-4. Градиентный спуск и ML
-5. Метод Ньютона
-6. BFGS
-7. Условная оптимизация
+1. [[AIM ML#AIM ML Content Покоординатный спуск (0 порядок)|Покоординатный спуск]]
+2. [[AIM ML#AIM ML Content Градиентный спуск (1 порядок)|Градиентный спуск]]
+3. [[AIM ML#AIM ML Content Стохастический градиентный спуск / SGD (1 порядок)|Стохастический градиентный спуск]]
+4. [[AIM ML#AIM ML Content Градиентный спуск и ML|Градиентный спуск и ML]]
+5. [[AIM ML#AIM ML Content Метод Ньютона (2 порядок)|Метод Ньютона]]
+6. [[AIM ML#AIM ML Content BFGS (1 порядок)|BFGS]]
+7. [[AIM ML#AIM ML Content Условная оптимизация|Условная оптимизация]]
 - - -
 
 &nbsp;
@@ -72,7 +72,7 @@
 ## [[AIM ML#Content|Постановка задач]]
 
 &nbsp;
-### [[AIM ML#Content|Обучение с учителем (*supervised*)]]
+### [[AIM ML#Content|Обучение с учителем (supervised)]]
 У нас есть размеченная обучающая выборка, на которой мы должны обучиться и предсказывать метки для новых объектов. Формально
 $$X_{train} = \{(x_1,y_1), \dots, (x_m, y_m)\}\text{ - обучающая выборка}$$ 
 Необходимо приблизить ту целевую функцию $y: X \rightarrow Y$, для которой
