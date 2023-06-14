@@ -64,6 +64,25 @@
 5. [[AIM ML#AIM ML Content Метод Ньютона (2 порядок)|Метод Ньютона]]
 6. [[AIM ML#AIM ML Content BFGS (1 порядок)|BFGS]]
 7. [[AIM ML#AIM ML Content Условная оптимизация|Условная оптимизация]]
+
+### [[AIM ML#AIM ML Content Линейные методы|Линейные методы]]
+1. [[AIM ML#AIM ML Content Линейная регрессия|Линейная регрессия]]
+2. [[AIM ML#AIM ML Content Обобщенная линейная регрессия|Обобщенная линейная регрессия]]
+3. [[AIM ML#AIM ML Content Регуляризация|Регуляризация]]
+4. [[AIM ML#AIM ML Content Гребневая регрессия|Гребневая регрессия]]
+5. [[AIM ML#AIM ML Content LASSO|LASSO]]
+6. [[AIM ML#AIM ML Content Elastic Net (LASSO + Ridge)|Elastic Net]]
+7. [[AIM ML#AIM ML Content Селекция признаков|Селекция признаков]]
+8. [[AIM ML#AIM ML Content Уменьшение размерности|Уменьшение размерности]]
+9. [[AIM ML#AIM ML Content Увеличение выборки|Увеличение выборки]]
+10. [[AIM ML#AIM ML Content Устойчивая регрессия|Устойчивая регрессия]]
+11. [[AIM ML#AIM ML Content RANSAC|RANSAC]]
+12. [[AIM ML#AIM ML Content Проекционная матрица|Проекционная матрица]]
+13. [[AIM ML#AIM ML Content Линейная регрессия и SVD|Линейная регрессия и SVD]]
+14. [[AIM ML#AIM ML Content Поиск ортогонального соответствия|Поиск ортогонального соответствия]]
+15. [[AIM ML#AIM ML Content Бинарная классификация и сигмоида|Бинарная классификация и сигмоида]]
+16. [[AIM ML#AIM ML Content Многоклассовая логистическая регрессия|Многоклассовая логистическая регрессия]]
+17. [[AIM ML#AIM ML Content Итоги|Итоги]]
 - - -
 
 &nbsp;
@@ -1118,7 +1137,7 @@ $$w = (X^TX)^{-1}X^Ta$$
 
 &nbsp;
 
-###  [[AIM ML#Content|Обощенная линейная регрессия]]
+###  [[AIM ML#Content|Обобщенная линейная регрессия]]
 Вместо того, чтобы линейно выражать функцию через признаки, будем линейно выражать функцию через функции над признаками $\varphi_i(x_1, x_2, \cdots, x_n)$ (она может быть и нелинейной, тогда метод тоже перестает таким быть)
 $$a(x_1,\cdots,x_n) = w_0 + w_1\varphi_1 + \cdots + w_k\varphi_k$$
   Теперь пусть$$w = (w_0, w_1, \cdots, w_k)^T\;\;\;\;\;x = (x_0, x_1, \cdots, x_n)^T$$Хотим по аналогии минимизировать $$\|\varphi(X)w - y\|_2^2 \rightarrow \min$$где$$\varphi(X) = \begin{pmatrix}  
