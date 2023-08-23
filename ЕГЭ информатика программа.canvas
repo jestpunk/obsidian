@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"text","text":"4. Пароли / условие Фано","id":"e52ffb6d59d9aa09","x":-975,"y":537,"width":213,"height":92,"color":"2"},
+		{"type":"text","text":"4. ✅ Пароли / условие Фано","id":"e52ffb6d59d9aa09","x":-975,"y":537,"width":213,"height":92,"color":"2"},
 		{"type":"text","text":"7. ✅ Объем памяти","id":"055d74ce4195a52e","x":-65,"y":539,"width":213,"height":86,"color":"2"},
 		{"type":"text","text":"8. ✅ Комбинаторика","id":"7f62de057bbf9927","x":-700,"y":539,"width":240,"height":86,"color":"2"},
 		{"type":"text","text":"1. Карта и дороги","id":"b5bc3b17591d875b","x":-1600,"y":543,"width":250,"height":80,"color":"2"},
@@ -27,7 +27,7 @@
 		{"type":"text","text":"11. ✅ Пароли и пользователи","id":"c9c9a12aa1255dac","x":-65,"y":660,"width":213,"height":89,"color":"2"},
 		{"type":"text","text":"10. Ctrl+F","id":"4ac598444e014999","x":-1280,"y":541,"width":250,"height":84,"color":"2"},
 		{"type":"text","text":"СИСТЕМЫ СЧИСЛЕНИЯ","id":"4f6f134b9ea3419a","x":-420,"y":539,"width":270,"height":87,"color":"2"},
-		{"type":"text","text":"5. Операции над числом","id":"076a85b682061f53","x":-420,"y":654,"width":270,"height":82,"color":"2"},
+		{"type":"text","text":"5. ✅ Операции над числом","id":"076a85b682061f53","x":-420,"y":654,"width":270,"height":82,"color":"2"},
 		{"type":"text","text":"14. ✅ Системы счисления ","id":"f987cae8d76ba04f","x":-420,"y":769,"width":270,"height":60,"color":"2"}
 	],
 	"edges":[
