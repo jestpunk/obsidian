@@ -4,8 +4,6 @@
 		{"type":"text","text":"12. ✅ Трига","id":"62f509934685784d","x":2880,"y":-320,"width":250,"height":60,"color":"2"},
 		{"type":"text","text":"ЛОГАРИФМЫ","id":"9ca68d024801051d","x":3204,"y":-414,"width":250,"height":60,"color":"2"},
 		{"type":"text","text":"14. ✅ Неравенство","id":"83f7a888b2d4a4d2","x":3204,"y":-320,"width":250,"height":60,"color":"2"},
-		{"type":"text","text":"8. ✅ Подставить в формулу","id":"5e69763f780a4d74","x":565,"y":-421,"width":260,"height":181,"color":"3"},
-		{"type":"text","text":"10. График","id":"b6d75e5c6c45bc90","x":1240,"y":-420,"width":260,"height":84,"color":"3"},
 		{"type":"text","text":"16. Планиметрия хард","id":"bcde28d56905154b","x":4020,"y":-410,"width":250,"height":60,"color":"1"},
 		{"type":"text","text":"13. Стереометрия хард","id":"3d8d2b69b89e75ac","x":4020,"y":-319,"width":250,"height":60,"color":"1"},
 		{"type":"text","text":"Делимость, простота, неравенство средних...","id":"86237943b5aa4ccd","x":4360,"y":-410,"width":250,"height":100,"color":"1"},
@@ -17,19 +15,19 @@
 		{"type":"text","text":"4. ✅ Хард теорвер","id":"d4e5059ed28198dd","x":1980,"y":-287,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"1. Планиметрия","id":"8be3585b67f854fe","x":2320,"y":-406,"width":340,"height":60,"color":"5"},
 		{"type":"text","text":"2. Стерометрия","id":"142891fd27f0bc32","x":2320,"y":-287,"width":340,"height":60,"color":"5"},
-		{"type":"text","text":"9. ✅ Скорости, работа, проценты","id":"6b8b0868080d6efa","x":900,"y":-430,"width":269,"height":103,"color":"3"},
-		{"type":"text","text":"5. ✅ Уравнения","id":"4e2ed92d48480123","x":180,"y":-420,"width":340,"height":60,"color":"3"},
-		{"type":"text","text":"6. ✅ Выражения","id":"0f369afc852cce11","x":180,"y":-240,"width":340,"height":80,"color":"3"},
-		{"type":"text","text":"15. ✅ Экономическая","id":"5e08f4b26b4a14d2","x":3520,"y":-414,"width":250,"height":60,"color":"2"}
+		{"type":"text","text":"15. ✅ Экономическая","id":"5e08f4b26b4a14d2","x":3520,"y":-414,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"8. ✅ Подставить в формулу","id":"5e69763f780a4d74","x":1280,"y":-470,"width":260,"height":181,"color":"3"},
+		{"type":"text","text":"5. ✅ Уравнения","id":"4e2ed92d48480123","x":-120,"y":-422,"width":340,"height":60,"color":"3"},
+		{"type":"text","text":"6. ✅ Выражения","id":"0f369afc852cce11","x":-120,"y":-242,"width":340,"height":80,"color":"3"},
+		{"type":"text","text":"9. ✅ Скорости, работа, проценты","id":"6b8b0868080d6efa","x":336,"y":-431,"width":269,"height":103,"color":"3"},
+		{"type":"text","text":"10. График","id":"b6d75e5c6c45bc90","x":660,"y":-422,"width":260,"height":84,"color":"3"},
+		{"id":"da62028b7dc6fa3d","x":980,"y":-410,"width":250,"height":60,"color":"3","type":"text","text":"Логарифмы"}
 	],
 	"edges":[
 		{"id":"6c3926a2c6e55346","fromNode":"0137eb9bb71c6a98","fromSide":"bottom","toNode":"d4e5059ed28198dd","toSide":"top"},
 		{"id":"867dee91d4f00d51","fromNode":"2252b7fc9feff94e","fromSide":"bottom","toNode":"c7b7d3e9741f72c2","toSide":"top"},
-		{"id":"6e91160f99df096a","fromNode":"b6d75e5c6c45bc90","fromSide":"right","toNode":"2252b7fc9feff94e","toSide":"left"},
 		{"id":"43ed0b3e20d1613d","fromNode":"4e2ed92d48480123","fromSide":"bottom","toNode":"0f369afc852cce11","toSide":"top"},
-		{"id":"1597bf16d5d342e8","fromNode":"0f369afc852cce11","fromSide":"right","toNode":"5e69763f780a4d74","toSide":"left"},
 		{"id":"a31b79dccf44c905","fromNode":"8be3585b67f854fe","fromSide":"bottom","toNode":"142891fd27f0bc32","toSide":"top"},
-		{"id":"4b049d4a11920473","fromNode":"5e69763f780a4d74","fromSide":"right","toNode":"6b8b0868080d6efa","toSide":"left"},
 		{"id":"54bd97c99ba8a251","fromNode":"9ca68d024801051d","fromSide":"bottom","toNode":"83f7a888b2d4a4d2","toSide":"top"},
 		{"id":"9a6d961e04d637bc","fromNode":"86237943b5aa4ccd","fromSide":"bottom","toNode":"292ec6d27b7a83fd","toSide":"top"},
 		{"id":"cb995a2004f7cb67","fromNode":"292ec6d27b7a83fd","fromSide":"right","toNode":"459704c4b309c536","toSide":"left"},
@@ -42,9 +40,13 @@
 		{"id":"958b83dafe83d9c8","fromNode":"9ca68d024801051d","fromSide":"top","toNode":"4e2ed92d48480123","toSide":"top"},
 		{"id":"39b51bc1b132069c","fromNode":"5e08f4b26b4a14d2","fromSide":"right","toNode":"bcde28d56905154b","toSide":"left"},
 		{"id":"5b62fb2db83080e4","fromNode":"142891fd27f0bc32","fromSide":"right","toNode":"ffb61c4a0f93fd6c","toSide":"left"},
-		{"id":"66d222a276c8ee25","fromNode":"6b8b0868080d6efa","fromSide":"right","toNode":"b6d75e5c6c45bc90","toSide":"left"},
 		{"id":"b0cd24e83ae60a4e","fromNode":"ffb61c4a0f93fd6c","fromSide":"bottom","toNode":"62f509934685784d","toSide":"top"},
 		{"id":"8fcba9f0ff5d3dd3","fromNode":"62f509934685784d","fromSide":"right","toNode":"9ca68d024801051d","toSide":"left"},
-		{"id":"6ffaa5eb6c2e6b7a","fromNode":"ffb61c4a0f93fd6c","fromSide":"bottom","toNode":"62f509934685784d","toSide":"top"}
+		{"id":"6ffaa5eb6c2e6b7a","fromNode":"ffb61c4a0f93fd6c","fromSide":"bottom","toNode":"62f509934685784d","toSide":"top"},
+		{"id":"2531e3e3e069e670","fromNode":"0f369afc852cce11","fromSide":"right","toNode":"6b8b0868080d6efa","toSide":"left"},
+		{"id":"272a5f73fdff074d","fromNode":"6b8b0868080d6efa","fromSide":"right","toNode":"b6d75e5c6c45bc90","toSide":"left"},
+		{"id":"397f3294774b0891","fromNode":"5e69763f780a4d74","fromSide":"right","toNode":"2252b7fc9feff94e","toSide":"left"},
+		{"id":"442b79895f4c5f57","fromNode":"b6d75e5c6c45bc90","fromSide":"right","toNode":"da62028b7dc6fa3d","toSide":"left"},
+		{"id":"959a0dfe95b106a6","fromNode":"da62028b7dc6fa3d","fromSide":"right","toNode":"5e69763f780a4d74","toSide":"left"}
 	]
 }
