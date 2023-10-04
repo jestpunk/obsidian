@@ -16,12 +16,12 @@
 		{"type":"text","text":"1. Планиметрия","id":"8be3585b67f854fe","x":2320,"y":-406,"width":340,"height":60,"color":"5"},
 		{"type":"text","text":"2. Стерометрия","id":"142891fd27f0bc32","x":2320,"y":-287,"width":340,"height":60,"color":"5"},
 		{"type":"text","text":"15. ✅ Экономическая","id":"5e08f4b26b4a14d2","x":3520,"y":-414,"width":250,"height":60,"color":"2"},
-		{"type":"text","text":"8. ✅ Подставить в формулу","id":"5e69763f780a4d74","x":1280,"y":-470,"width":260,"height":181,"color":"3"},
 		{"type":"text","text":"5. ✅ Уравнения","id":"4e2ed92d48480123","x":-120,"y":-422,"width":340,"height":60,"color":"3"},
 		{"type":"text","text":"6. ✅ Выражения","id":"0f369afc852cce11","x":-120,"y":-242,"width":340,"height":80,"color":"3"},
 		{"type":"text","text":"10. График","id":"b6d75e5c6c45bc90","x":660,"y":-422,"width":260,"height":84,"color":"3"},
-		{"id":"da62028b7dc6fa3d","x":980,"y":-410,"width":250,"height":60,"color":"3","type":"text","text":"Логарифмы"},
-		{"type":"text","text":"9. ✅ Скорости, работа, проценты","id":"6b8b0868080d6efa","x":300,"y":-431,"width":269,"height":103,"color":"3"}
+		{"id":"da62028b7dc6fa3d","type":"text","text":"Логарифмы","x":980,"y":-410,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"9. ✅ Скорости, работа, проценты","id":"6b8b0868080d6efa","x":300,"y":-431,"width":269,"height":103,"color":"3"},
+		{"type":"text","text":"8. ✅ Подставить в формулу","id":"5e69763f780a4d74","x":1280,"y":-468,"width":260,"height":181,"color":"3"}
 	],
 	"edges":[
 		{"id":"6c3926a2c6e55346","fromNode":"0137eb9bb71c6a98","fromSide":"bottom","toNode":"d4e5059ed28198dd","toSide":"top"},
